@@ -61,7 +61,7 @@ Focus Area: Scalable Backend Systems
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&ring=FF4D8B&fire=FF4D8B&currStreakLabel=FF4D8B&sideLabels=56D8FF&dates=56D8FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nikil1717&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
