@@ -60,6 +60,12 @@ Focus Area: Scalable Backend Systems
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
+  <img src="https://metrics.lecoq.io/nikil1717?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" />
+</p>
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=nikil1717&data=followers,repositories,stars,commits&theme=dark" />
 </p>
 
