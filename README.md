@@ -29,9 +29,7 @@ Focus Area: Scalable Backend Systems
 
 ## 📊 CONTRIBUTION STATS
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikil1717&theme=tokyonight&hide_border=false" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=tokyonight" />
 
 # 👨‍💻 ABOUT ME
 
