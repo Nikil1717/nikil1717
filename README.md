@@ -1,10 +1,8 @@
 <p align="center">
+<p align="center">
   <img src="banner.png" width="100%">
 </p>
 
-# ⚡ NIKIL T M
-
-### JAVA | SPRING BOOT | AWS | DEVOPS
 
 ### 🚀 BUILDING SCALABLE BACKEND SYSTEMS
 
