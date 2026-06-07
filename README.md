@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Backend+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Backend+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
