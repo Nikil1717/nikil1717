@@ -102,6 +102,12 @@ Production deployment environment.
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikil1717&theme=radical&utcOffset=5.5" />
 </p>
 
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=github_dark" />
+</p>
+
 ## 🔥 CONTRIBUTION GRAPH
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikil1717&bg_color=0d1117&color=ff5555&line=ff0000&point=ffffff&area=true&area_color=8b0000&hide_border=true)](https://github.com/nikil1717)
