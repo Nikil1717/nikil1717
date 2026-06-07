@@ -61,19 +61,15 @@ Focus Area: Scalable Backend Systems
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Repositories-9-1a1a1a?style=for-the-badge&logo=github&logoColor=red&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔥_134+-Contributions-FF0000?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://img.shields.io/badge/Stars-1-8B0000?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/📦_9-Repositories-1a1a1a?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://img.shields.io/badge/Contributions-134-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/⭐_1-Star-8B0000?style=for-the-badge&labelColor=000000"/>
 
 </p>
 
-## 📊 GITHUB ANALYTICS
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=radical" />
-</p>
 
 ## 🔥 CONTRIBUTION GRAPH
 
