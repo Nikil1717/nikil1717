@@ -57,6 +57,20 @@ Current Mission: Master AWS & DevOps
 Focus Area: Scalable Backend Systems
 ```
 
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Followers-0-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Repositories-9-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Contributions-134-green?style=for-the-badge" />
+
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikil1717&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
 </p>
