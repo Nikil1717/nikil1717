@@ -86,7 +86,7 @@ Production deployment environment.
 
 ## 🔥 CONTRIBUTION GRAPH
 
-[![Nikil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikil1717&theme=tokyo-night)](https://github.com/nikil1717)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikil1717&bg_color=0d1117&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/nikil1717)
 
 # 👨‍💻 ABOUT ME
 
