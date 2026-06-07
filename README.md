@@ -105,6 +105,17 @@ Production deployment environment.
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikil1717&theme=radical&utcOffset=5.5" />
+</p>
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
   <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=github_dark" />
 </p>
 
