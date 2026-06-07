@@ -83,6 +83,11 @@ Production deployment environment.
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikil1717&theme=tokyonight&utcOffset=5.5" />
 </p>
+
+## 🔥 CONTRIBUTION GRAPH
+
+[![Nikil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikil1717&theme=tokyo-night)](https://github.com/nikil1717)
+
 # 👨‍💻 ABOUT ME
 
 - 💻 Backend-focused Developer
