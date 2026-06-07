@@ -4,15 +4,33 @@
 </p>
 
 
-<div align="center">
-
-# 🚀 BUILDING SCALABLE BACKEND SYSTEMS
-
-</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+Developer;Spring+Boot+Developer;AWS+Cloud+Learner;DevOps+Enthusiast;Building+Scalable+Applications" />
 
-</div>
+## 👨‍💻 ABOUT THE DEVELOPER
+
+<table>
+<tr>
+<td width="60%">
+
+Hi! I'm **Nikil T M** — a Backend Developer passionate about building scalable and reliable applications. I enjoy solving real-world problems through clean architecture, efficient APIs, and cloud technologies.
+
+- ⚡ **Role:** Backend Engineer
+- ☕ **Core:** Java, Spring Boot, SQL
+- ☁️ **Current Focus:** AWS Cloud, DevOps, System Design
+- 🐧 **Environment:** Linux & Backend Development
+- 📚 **Learning:** Advanced AWS Services & CI/CD
+- 🤝 **Open To:** Collaboration, Open Source & Backend Projects
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 # 🚀 SYSTEM STATUS
