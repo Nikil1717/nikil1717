@@ -69,6 +69,11 @@ Focus Area: Scalable Backend Systems
 
 </p>
 
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=radical" />
+</p>
 
 ## 🔥 CONTRIBUTION GRAPH
 
