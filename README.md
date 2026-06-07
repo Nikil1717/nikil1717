@@ -28,15 +28,17 @@ Focus Area: Scalable Backend Systems
 ---
 
 
-## 📊 GITHUB ANALYTICS
+## 🚀 DEVELOPER DASHBOARD
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=nikil1717&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikil1717&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikil1717&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Java-Backend_Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Learner-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-User-black?style=for-the-badge" />
 </p>
 
 # 👨‍💻 ABOUT ME
