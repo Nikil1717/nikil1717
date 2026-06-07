@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 # 🚀 SYSTEM STATUS
 
 ```yaml
@@ -24,3 +23,12 @@ Cloud: AWS
 Operating System: Linux
 Current Mission: Master AWS & DevOps
 Focus Area: Scalable Backend Systems
+```
+
+---
+
+# 👨‍💻 ABOUT ME
+
+- 💻 Backend-focused Developer
+- ☕ Strong in Java & Spring Boot
+- ☁️ Learning AWS Cloud Technologies
