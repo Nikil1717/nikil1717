@@ -98,11 +98,8 @@ Production deployment environment.
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=radical" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikil1717&theme=radical&utcOffset=5.5" />
 </p>
 
 ## 🔥 CONTRIBUTION GRAPH
