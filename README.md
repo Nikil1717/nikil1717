@@ -57,7 +57,11 @@ Current Mission: Master AWS & DevOps
 Focus Area: Scalable Backend Systems
 ```
 
+## 📊 GITHUB ANALYTICS
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=nikil1717&data=followers,repositories,stars,commits&theme=dark" />
+</p>
 
 ## 📊 GITHUB ANALYTICS
 
