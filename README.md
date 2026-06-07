@@ -63,7 +63,7 @@ Focus Area: Scalable Backend Systems
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikil1717&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=radical" />
 </p>
 
 
