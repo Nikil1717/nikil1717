@@ -39,7 +39,7 @@ Hi! I'm **Nikil T M** — a Backend Developer passionate about building scalable
 ## ☠️ TECH ARSENAL
 
 <p align="center">
-  <img src="Tech-aresnal.png" width="90%">
+  <img src="Tech-arsenal.png" width="90%">
 </p>
 
 ---
