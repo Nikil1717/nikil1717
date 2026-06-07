@@ -116,8 +116,34 @@ Production deployment environment.
   <img src="https://github-profile-trophy.vercel.app/?username=nikil1717&theme=algolia&no-frame=true&row=2&column=4" />
 </p>
 
-# 👨‍💻 ABOUT ME
+## 📫 CONNECT WITH ME
 
-- 💻 Backend-focused Developer
-- ☕ Strong in Java & Spring Boot
-- ☁️ Learning AWS Cloud Technologies
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nikil-t-m-131006255/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nikilgowda171@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/NikilGowda17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/nikil1717">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 BUILDING SCALABLE BACKEND SYSTEMS
+
+*Code • Deploy • Scale*
+
+</div>
