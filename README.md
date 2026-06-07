@@ -31,12 +31,12 @@ Focus Area: Scalable Backend Systems
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikil1717&theme=tokyonight&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikil1717&theme=github_dark&utcOffset=5.5" />
 </p>
 
 # 👨‍💻 ABOUT ME
