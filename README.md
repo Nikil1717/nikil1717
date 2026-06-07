@@ -27,6 +27,18 @@ Focus Area: Scalable Backend Systems
 
 ---
 
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikil1717&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikil1717&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikil1717&theme=tokyonight" />
+</p>
+
 # 👨‍💻 ABOUT ME
 
 - 💻 Backend-focused Developer
