@@ -61,14 +61,8 @@ Focus Area: Scalable Backend Systems
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nikil1717&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=nikil1717&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
