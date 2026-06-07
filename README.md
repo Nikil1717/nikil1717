@@ -88,6 +88,12 @@ Production deployment environment.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikil1717&bg_color=0d1117&color=ff5555&line=ff0000&point=ffffff&area=true&area_color=8b0000&hide_border=true)](https://github.com/nikil1717)
 
+## 🏆 GITHUB TROPHIES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikil1717&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
 # 👨‍💻 ABOUT ME
 
 - 💻 Backend-focused Developer
