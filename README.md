@@ -27,6 +27,52 @@ Focus Area: Scalable Backend Systems
 
 ---
 
+## 🏗 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎫 Helpdesk Management System
+
+Backend-focused enterprise ticketing platform.
+
+**Tech Stack**
+- Spring Boot
+- React
+- PostgreSQL
+- JWT Authentication
+
+**Features**
+- Role Based Access
+- Ticket Assignment
+- Dashboard Analytics
+- Email Notifications
+
+</td>
+
+<td width="50%">
+
+### ☁ AWS Deployment Project
+
+Production deployment environment.
+
+**Tech Stack**
+- AWS EC2
+- Linux
+- Jenkins
+- GitHub Actions
+
+**Features**
+- CI/CD Pipeline
+- Automated Deployment
+- Server Monitoring
+- Production Hosting
+
+</td>
+</tr>
+</table>
+
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
