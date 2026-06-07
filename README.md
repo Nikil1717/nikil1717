@@ -61,53 +61,14 @@ Focus Area: Scalable Backend Systems
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Followers-0-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repositories-9-1a1a1a?style=for-the-badge&logo=github&logoColor=red&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/Repositories-9-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stars-1-8B0000?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Contributions-134-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contributions-134-FF0000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikil1717&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
-</p>
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/nikil1717?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" />
-</p>
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=nikil1717&data=followers,repositories,stars,commits&theme=dark" />
-</p>
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikil1717&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=nikil1717&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikil1717&theme=radical" />
-</p>
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikil1717&theme=radical&hide_border=true" />
-</p>
 
 ## 🔥 CONTRIBUTION GRAPH
 
