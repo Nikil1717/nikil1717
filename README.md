@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="./banner.svg" alt="Nikil T M" width="100%"/>
 </p>
 
 
