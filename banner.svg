@@ -1,0 +1,45 @@
+<svg viewBox="0 0 800 267" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes curve1 {
+        0%   { d: path("M350,267 C380,232 440,200 510,188 C610,172 710,178 800,172 L800,267 Z"); }
+        50%  { d: path("M350,267 C385,224 448,192 518,180 C618,164 714,170 800,164 L800,267 Z"); }
+        100% { d: path("M350,267 C380,232 440,200 510,188 C610,172 710,178 800,172 L800,267 Z"); }
+      }
+      @keyframes curve2 {
+        0%   { d: path("M430,267 C468,246 520,220 585,208 C665,194 740,198 800,194 L800,267 Z"); }
+        50%  { d: path("M430,267 C472,238 528,212 594,200 C672,186 745,190 800,186 L800,267 Z"); }
+        100% { d: path("M430,267 C468,246 520,220 585,208 C665,194 740,198 800,194 L800,267 Z"); }
+      }
+      @keyframes curve3 {
+        0%   { d: path("M500,267 C530,255 572,236 628,226 C695,214 758,216 800,213 L800,267 Z"); }
+        50%  { d: path("M500,267 C535,247 580,228 636,218 C702,206 762,208 800,205 L800,267 Z"); }
+        100% { d: path("M500,267 C530,255 572,236 628,226 C695,214 758,216 800,213 L800,267 Z"); }
+      }
+      .c1 { animation: curve1 7s ease-in-out infinite; }
+      .c2 { animation: curve2 10s ease-in-out infinite; }
+      .c3 { animation: curve3 5s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="800" height="267" fill="#0a0a0a"/>
+
+  <path class="c1" fill="#7a0005" fill-opacity="1"
+    d="M350,267 C380,232 440,200 510,188 C610,172 710,178 800,172 L800,267 Z"/>
+  <path class="c2" fill="#aa0008" fill-opacity="0.85"
+    d="M430,267 C468,246 520,220 585,208 C665,194 740,198 800,194 L800,267 Z"/>
+  <path class="c3" fill="#cc000e" fill-opacity="0.7"
+    d="M500,267 C530,255 572,236 628,226 C695,214 758,216 800,213 L800,267 Z"/>
+
+  <!-- ✏️ Your name -->
+  <text x="400" y="138" text-anchor="middle"
+    font-family="'Segoe UI', Arial Black, sans-serif"
+    font-weight="900" font-size="70"
+    fill="#ffffff" letter-spacing="10">NIKIL T M</text>
+
+  <!-- ✏️ Your tagline -->
+  <text x="400" y="174" text-anchor="middle"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-weight="600" font-size="13"
+    fill="rgba(255,255,255,0.65)" letter-spacing="5">JAVA  |  SPRING BOOT  |  AWS  |  DEVOPS</text>
+</svg>
