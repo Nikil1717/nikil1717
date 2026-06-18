@@ -61,6 +61,8 @@ Focus Area: Scalable Backend Systems
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikil1717&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=nikil1717&theme=tokyonight)
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/🔥_160-Contributions-FF0000?style=for-the-badge&labelColor=000000"/>
