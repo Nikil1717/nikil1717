@@ -59,7 +59,13 @@ Focus Area: Scalable Backend Systems
 
 ## 📊 GITHUB ANALYTICS
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikil1717&theme=github_dark)
+## 📊 GitHub Stats
+
+![Nikil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikil1717&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikil1717&layout=donut&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nikil1717&theme=tokyonight)
 
 <p align="center">
 
