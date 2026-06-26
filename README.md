@@ -61,11 +61,11 @@ Focus Area: Scalable Backend Systems
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🔥_210-Contributions-FF0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🔥_250-Contributions-FF0000?style=for-the-badge&labelColor=000000"/>
 
 <img src="https://img.shields.io/badge/📦_11-Repositories-1a1a1a?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://img.shields.io/badge/⭐_5-Star-8B0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/⭐_7-Star-8B0000?style=for-the-badge&labelColor=000000"/>
 
 </p>
 
